@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|f:\\work log\\ezest.spx.routefinder.app\\ezest.spx.routefinder.app\\ezest.spx.routerfinder.app.readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|solutionrelative:ezest.spx.routefinder.app\\ezest.spx.routerfinder.app.readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|f:\\work log\\ezest.spx.routefinder.app\\ezest.spx.routefinder.app\\msunit.test\\routefindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|solutionrelative:ezest.spx.routefinder.app\\msunit.test\\routefindertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|f:\\work log\\ezest.spx.routefinder.app\\ezest.spx.routefinder.app\\application\\services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|solutionrelative:ezest.spx.routefinder.app\\application\\services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|f:\\work log\\ezest.spx.routefinder.app\\ezest.spx.routefinder.app\\application\\services\\pathfinderstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|solutionrelative:ezest.spx.routefinder.app\\application\\services\\pathfinderstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|f:\\work log\\ezest.spx.routefinder.app\\ezest.spx.routefinder.app\\domain\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|solutionrelative:ezest.spx.routefinder.app\\domain\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|f:\\work log\\ezest.spx.routefinder.app\\ezest.spx.routefinder.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|solutionrelative:ezest.spx.routefinder.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|f:\\work log\\ezest.spx.routefinder.app\\ezest.spx.routefinder.app\\data\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|solutionrelative:ezest.spx.routefinder.app\\data\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|f:\\work log\\ezest.spx.routefinder.app\\ezest.spx.routefinder.app\\domain\\core\\igraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|solutionrelative:ezest.spx.routefinder.app\\domain\\core\\igraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|f:\\work log\\ezest.spx.routefinder.app\\ezest.spx.routefinder.app\\domain\\core\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|solutionrelative:ezest.spx.routefinder.app\\domain\\core\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|f:\\work log\\ezest.spx.routefinder.app\\ezest.spx.routefinder.app\\domain\\model\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|solutionrelative:ezest.spx.routefinder.app\\domain\\model\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|f:\\work log\\ezest.spx.routefinder.app\\ezest.spx.routefinder.app\\domain\\core\\ipathfindingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF91F9D-86FA-4F0F-AFAF-593D9C6E0B46}|Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App.csproj|solutionrelative:ezest.spx.routefinder.app\\domain\\core\\ipathfindingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteFinderTests.cs",
+              "DocumentMoniker": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\MSUnit.Test\\RouteFinderTests.cs",
+              "RelativeDocumentMoniker": "Ezest.SPX.RouteFinder.App\\MSUnit.Test\\RouteFinderTests.cs",
+              "ToolTip": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\MSUnit.Test\\RouteFinderTests.cs",
+              "RelativeToolTip": "Ezest.SPX.RouteFinder.App\\MSUnit.Test\\RouteFinderTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:23:16.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ezest.SPX.RouterFinder.App.Readme.md",
+              "DocumentMoniker": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouterFinder.App.Readme.md",
+              "RelativeDocumentMoniker": "Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouterFinder.App.Readme.md",
+              "ToolTip": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouterFinder.App.Readme.md",
+              "RelativeToolTip": "Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouterFinder.App.Readme.md",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-26T22:15:28.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PathfinderStrategy.cs",
+              "DocumentMoniker": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Application\\Services\\PathfinderStrategy.cs",
+              "RelativeDocumentMoniker": "Ezest.SPX.RouteFinder.App\\Application\\Services\\PathfinderStrategy.cs",
+              "ToolTip": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Application\\Services\\PathfinderStrategy.cs",
+              "RelativeToolTip": "Ezest.SPX.RouteFinder.App\\Application\\Services\\PathfinderStrategy.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:33:00.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Data\\FileRepository.cs",
+              "RelativeDocumentMoniker": "Ezest.SPX.RouteFinder.App\\Data\\FileRepository.cs",
+              "ToolTip": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Data\\FileRepository.cs",
+              "RelativeToolTip": "Ezest.SPX.RouteFinder.App\\Data\\FileRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAywAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:18:53.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Program.cs",
+              "RelativeDocumentMoniker": "Ezest.SPX.RouteFinder.App\\Program.cs",
+              "ToolTip": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Program.cs",
+              "RelativeToolTip": "Ezest.SPX.RouteFinder.App\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:16:11.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteService.cs",
+              "DocumentMoniker": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Application\\Services\\RouteService.cs",
+              "RelativeDocumentMoniker": "Ezest.SPX.RouteFinder.App\\Application\\Services\\RouteService.cs",
+              "ToolTip": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Application\\Services\\RouteService.cs",
+              "RelativeToolTip": "Ezest.SPX.RouteFinder.App\\Application\\Services\\RouteService.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAwwJAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:17:30.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Domain\\Core\\IFileRepository.cs",
+              "RelativeDocumentMoniker": "Ezest.SPX.RouteFinder.App\\Domain\\Core\\IFileRepository.cs",
+              "ToolTip": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Domain\\Core\\IFileRepository.cs",
+              "RelativeToolTip": "Ezest.SPX.RouteFinder.App\\Domain\\Core\\IFileRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:20:16.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGraph.cs",
+              "DocumentMoniker": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Domain\\Core\\IGraph.cs",
+              "RelativeDocumentMoniker": "Ezest.SPX.RouteFinder.App\\Domain\\Core\\IGraph.cs",
+              "ToolTip": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Domain\\Core\\IGraph.cs",
+              "RelativeToolTip": "Ezest.SPX.RouteFinder.App\\Domain\\Core\\IGraph.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:21:35.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Domain\\Graph.cs",
+              "RelativeDocumentMoniker": "Ezest.SPX.RouteFinder.App\\Domain\\Graph.cs",
+              "ToolTip": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Domain\\Graph.cs",
+              "RelativeToolTip": "Ezest.SPX.RouteFinder.App\\Domain\\Graph.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvzAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:27:00.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Route.cs",
+              "DocumentMoniker": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Domain\\Model\\Route.cs",
+              "RelativeDocumentMoniker": "Ezest.SPX.RouteFinder.App\\Domain\\Model\\Route.cs",
+              "ToolTip": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Domain\\Model\\Route.cs",
+              "RelativeToolTip": "Ezest.SPX.RouteFinder.App\\Domain\\Model\\Route.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:27:38.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPathfindingStrategy.cs",
+              "DocumentMoniker": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Domain\\Core\\IPathfindingStrategy.cs",
+              "RelativeDocumentMoniker": "Ezest.SPX.RouteFinder.App\\Domain\\Core\\IPathfindingStrategy.cs",
+              "ToolTip": "F:\\Work Log\\Ezest.SPX.RouteFinder.App\\Ezest.SPX.RouteFinder.App\\Domain\\Core\\IPathfindingStrategy.cs",
+              "RelativeToolTip": "Ezest.SPX.RouteFinder.App\\Domain\\Core\\IPathfindingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:21:57.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
